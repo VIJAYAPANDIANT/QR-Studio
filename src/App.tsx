@@ -2056,7 +2056,7 @@ export default function App() {
             Professional QR Code production ecosystem. Fully local dynamic redirects, visual brand customizer, and integrated AI.
           </p>
           <div className="text-[10px] text-neutral-600 font-mono">
-            Vite + React 19 + Tailwind v4 + Gemini 2.5
+            © 2026 QR Studio Pro. All rights reserved.
           </div>
         </div>
       </footer>
